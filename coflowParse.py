@@ -64,6 +64,7 @@ def mytest(inputFile,outputFile,expType) :
             cfCounter += 1
             currStart = startT
             currEnd = endT
+            CurrCoflow = coflowID
 
         i += 1
         myResult.sort()
